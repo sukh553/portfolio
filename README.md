@@ -14,3 +14,5 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript. It s
 
 ## 🧑‍💻 About Me
 Created by **Sukhpreet Singh**, BSc (Hons) Computer Science student at the University of Hertfordshire.
+Email: ss0835462@gmail.com
+Phone: +44 7407836882
